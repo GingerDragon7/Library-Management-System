@@ -1,0 +1,25 @@
+#signup_form input,textarea{
+	font-size:24px;
+	font-family:sans-serif;
+	border-radius:5px;
+	margin:12px;
+}
+#signup{
+	margin-left:700px;
+	margin-top:50px;
+	
+	font-family:verdana;
+	font-size:15px;
+	color:white;
+}
+#error{
+	color:red;
+	font-size:15px;
+}
+body{
+	background-image:url('library1.jpg');
+	background-repeat:no-repeat;
+}
+#signup.slct1{
+	color:pink;
+}

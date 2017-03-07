@@ -1,0 +1,218 @@
+body{
+	background-image:url('gulabo.jpg');
+	background-repeat:no-repeat;
+	
+}
+#container{
+	
+	width:510px;
+	height:800px;
+	background-color:orange;
+	
+}
+
+#header{
+	width:170px;
+	height:170px;
+	margin:auto;
+color:pink;
+	position:absolute;
+}
+#content{
+	width:170px;
+	height:170px;
+	margin:auto;
+	color:pink;
+	position:relative;
+	top:290px;
+	
+	
+}
+#s2{
+	width:170px;
+	height:170px;
+	margin:auto;
+	
+	position:relative;
+	right:170px;
+	
+}
+#s1{
+	width:170px;
+	height:170px;
+	margin:auto;
+	
+	position:relative;
+	right:170px;
+}
+#s3{
+	width:170px;
+	height:170px;
+
+	position:absolute;
+	color:pink;
+	left:180px;
+	bottom:555px;
+	
+	
+}
+#s4{
+	width:170px;
+	height:170px;
+	margin:auto;
+	color:pink;
+	
+	
+}
+#s5{
+	width:170px;
+	height:170px;
+	position:absolute;
+	color:pink;
+	left:180px;
+	bottom:555px;
+}
+
+#s6{
+	width:170px;
+	height:170px;
+	
+	position:absolute;
+	color:pink;
+	left:360px;
+	bottom:555px;
+}
+	#s7{
+	width:170px;
+	height:170px;
+	position:absolute;
+	color:pink;
+	left:540px;
+	bottom:555px;
+}
+	#s8{
+	width:170px;
+	height:170px;
+	
+	position:absolute;
+	color:pink;
+	left:180px;
+	bottom:410px;
+}
+#s9{
+	width:170px;
+	height:170px;
+	margin:auto;
+	color:pink;
+	position:absolute;
+	left:355px;
+	top:180px;
+}
+#s10{
+	width:170px;
+	height:170px;
+	margin:auto;
+color:pink;
+	position:absolute;
+	left:535px;
+	top:180px;
+}
+#s11{
+	width:170px;
+	height:170px;
+	margin:auto;
+	color:pink;
+	position:absolute;
+	left:355px;
+	top:290px;
+}
+#s12{
+	width:170px;
+	height:170px;
+	margin:auto;
+	color:pink;
+	position:absolute;
+	left:535px;
+	top:290px;
+}
+#s13{
+	width:170px;
+	height:170px;
+	margin:auto;
+	color:pink;
+	position:absolute;
+	left:355px;
+	top:535px;
+}
+#s14{
+	width:170px;
+	height:170px;
+	margin:auto;
+color:pink;
+	position:absolute;
+	left:530px;
+	top:425px;
+}
+#s15{
+	width:170px;
+	height:170px;
+	margin:auto;
+color:pink;
+	position:absolute;
+	left:530px;
+	top:540px;
+}
+#s16{
+	width:170px;
+	height:170px;
+	margin:auto;
+color:pink;
+	position:absolute;
+	left:700px;
+	top:200px;
+	font-size:200px;
+}
+#s17{
+	width:170px;
+	height:170px;
+	margin:auto;
+color:aqua;
+	position:absolute;
+	left:870px;
+	top:200px;
+	font-size:200px;
+}
+#s18{
+	width:170px;
+	height:170px;
+	margin:auto;
+color:yellow;
+	position:absolute;
+	left:1040px;
+	top:200px;
+	font-size:200px;
+}
+#s19{
+	width:170px;
+	height:170px;
+	margin:auto;
+color:pink;
+	position:absolute;
+	left:1210px;
+	top:200px;
+	font-size:200px;
+}
+#s20{
+	width:170px;
+	height:170px;
+	margin:auto;
+color:aqua;
+	position:absolute;
+	left:1380px;
+	top:200px;
+	font-size:200px;
+}
+
+	
+
+	
